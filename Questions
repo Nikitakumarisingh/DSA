@@ -1,0 +1,117 @@
+Here is the List of all the targeted Topic's questions that i will understand and try to solve by this months.
+### Arrays
+1. **Easy**
+   - Find the largest element in an array.
+   - Reverse an array.
+
+2. **Medium**
+   - Find the "Kth" max and min element of an array.
+   - Move all the negative elements to one side of the array.
+
+3. **Hard**
+   - Find the longest contiguous subarray with an equal number of 0s and 1s.
+   - Find the "Kth" smallest/largest element in a sorted matrix.
+
+### Strings
+1. **Easy**
+   - Check if a string is a palindrome.
+   - Find the first non-repeating character in a string.
+
+2. **Medium**
+   - Check if two strings are anagrams of each other.
+   - Longest common prefix.
+
+3. **Hard**
+   - Longest palindromic substring.
+   - Count and say problem.
+
+### Linked Lists
+1. **Easy**
+   - Reverse a linked list.
+   - Detect a loop in a linked list.
+
+2. **Medium**
+   - Find the middle of a linked list.
+   - Merge two sorted linked lists.
+
+3. **Hard**
+   - Remove the N-th node from the end of a linked list.
+   - Add two numbers represented by linked lists.
+
+### Stacks and Queues
+1. **Easy**
+   - Implement a stack using arrays.
+   - Implement a queue using stacks.
+
+2. **Medium**
+   - Evaluate a postfix expression.
+   - Next greater element.
+
+3. **Hard**
+   - Implement a LRU cache.
+   - Sliding window maximum.
+
+### Trees
+1. **Easy**
+   - Inorder traversal of a binary tree.
+   - Find the height of a binary tree.
+
+2. **Medium**
+   - Check if a binary tree is balanced.
+   - Lowest common ancestor in a binary search tree.
+
+3. **Hard**
+   - Serialize and deserialize a binary tree.
+   - Maximum path sum in a binary tree.
+
+### Graphs
+1. **Easy**
+   - Implement BFS.
+   - Implement DFS.
+
+2. **Medium**
+   - Detect a cycle in an undirected graph.
+   - Find the shortest path in an unweighted graph.
+
+3. **Hard**
+   - Dijkstra's algorithm.
+   - Find all strongly connected components in a graph.
+
+### Dynamic Programming
+1. **Easy**
+   - Fibonacci sequence.
+   - Climbing stairs problem.
+
+2. **Medium**
+   - Longest increasing subsequence.
+   - Coin change problem.
+
+3. **Hard**
+   - Longest common subsequence.
+   - Edit distance problem.
+
+### Backtracking
+1. **Easy**
+   - Print all subsets of a set.
+   - Solve the N-Queens problem for a 4x4 board.
+
+2. **Medium**
+   - Word search in a matrix.
+   - Combination sum problem.
+
+3. **Hard**
+   - Sudoku solver.
+   - Generate all valid parentheses.
+
+### Bit Manipulation
+1. **Easy**
+   - Check if a number is a power of 2.
+   - Find the only non-repeating element in an array where every other element repeats twice.
+
+2. **Medium**
+   - Count the number of set bits in a number.
+   - Subset XOR problem.
+
+3. **Hard**
+   - Find the maximum subset XOR.
+   - Reverse bits of a given 32 bits unsigned integer.
