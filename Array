@@ -1,5 +1,5 @@
 /*TOPIC: Array
-QUESTION: Finding the Largest Element in an
+QUESTION: Finding the Largest Element in an Array
 Logic and Explanation:
 APPROCH: Linear search. 
 The idea is to traverse the array from the beginning to the end while keeping track of the maximum value encountered so far.
